@@ -1,7 +1,7 @@
 # Single-spot-diagnosis-for-detecting-the-critical-health-state-of-lithium-ion-batteries
 
 
-The code in this repository shows how to utilizing the data associated with the paper 'Single-spot diagnosis for detecting the critical health state of lithium ion batteries' by Hyunjae Kim, Inwoo Kim, Minsoo KIM et al. The data is available at . There you can also find more details about the data.
+The code in this repository shows how to utilizing the data associated with the paper 'History dependent knee point detection in lithium ion battery lifetime' by Hyunjae Kim, Inwoo Kim, Minsoo KIM et al. The data is available at . There you can also find more details about the data.
 
 This analysis was originally performed in python
 
