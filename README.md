@@ -13,5 +13,5 @@ RPT summary data: Extracting 0.2C, 1C capacity, DCIR@SOC50, dQdV &dVdQ of 0.2C a
 
 DCIR@SOC5 at EOL data: Extracting DCIR@SOC5 at EOL data from GITT at EOL.
 
-deg-SL regresssion : Machine learning code for estimating/predicting deg-SL.
-2nd lifetime & dummy regresssion :  Machine learning code for estimating/predicting 2nd lifetime.
+regresssion_deg-SL  : Machine learning code for estimating deg-SL.
+regresssion_2nd_lifetime & dummy_regression_2nd_lifetime :  Machine learning code for predicting 2nd lifetime.
